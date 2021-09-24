@@ -1,0 +1,9 @@
+Seecion 1: Intro // Python > print ("Juancito") para mostrar texto en pantalla, comillas simples o dobles funciona igual.
+
+Math Operations: 
+
+    ¿Que operadores hay?     +, -, *, /, % "tanto porciento" nos dice que resto saldria de dividir dos numeros (Ej. 21%5 -> 1) 21 dividido 5 es 4, el resto 1.
+    ** Potencia (Ej. 12**2 = 144)
+    // Division sin decimales (21/5 = 4; 21.0 // 5.0 = 4.0)
+    
+    
